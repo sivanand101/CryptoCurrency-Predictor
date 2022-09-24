@@ -1,3 +1,8 @@
+# This project is a CryptoCurrency price predictor in brief by taking many influenting attributes under consideration.
+# Data Collection, Conversion, Data Analysis and Data Preprocessing techniques like Feature extraction, Managing outliers and missing values are used. 
+# Python and Machine Learning libraries were utilized for the final completion and implementation of this project.
+# The solution to the Challenge was a part of the Course Project in our College, namely Data Mining and Analysis
+
 # DMA course project - Team 07
 # Cryptocurrency Closing Price Prediction Challenge 
 
